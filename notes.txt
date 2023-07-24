@@ -1,0 +1,11 @@
+6/27/23:
+
+
+        - During the CFR trainer keep track of the player's stacks for each action as well
+        + When both players bet the same amount, alter the game state do the next round
+
+7/11/23:
+
+        + Added flush draw and straight draw checks to the player val
+7/12/23:
+        - Need to check when a current history is invalid
